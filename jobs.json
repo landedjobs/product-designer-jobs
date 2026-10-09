@@ -1,5 +1,194 @@
 [
   {
+    "dedupeKey": "job:3059a6e7-2518-46f1-b629-853de3a4ae53",
+    "companyId": "company_c8e8f9f979e435f9efb6dd72f274fdd6",
+    "company": "Discord",
+    "companyDomain": "discord.com",
+    "role": "Product Designer, Player Experiences",
+    "applyUrl": "https://go.landed.jobs/ztlivur",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "mid",
+    "skills": [
+      "Figma",
+      "prototyping tools"
+    ],
+    "posted": "2026-10-08T23:39:35.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Digital Media 50",
+      "$15B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0af6d23b-5186-4d9b-a31f-90a7e7cad92f",
+    "companyId": "company_acb4ffda1a668b448bd13d98fe3d194d",
+    "company": "Figma",
+    "companyDomain": "figma.com",
+    "role": "Brand Designer, Web",
+    "applyUrl": "https://go.landed.jobs/98ho1p8",
+    "location": "San Francisco, CA +3",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY",
+      "Canada",
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "",
+    "skills": [
+      "web design",
+      "UX",
+      "accessibility",
+      "prototyping",
+      "information architecture",
+      "design systems"
+    ],
+    "posted": "2026-10-08T22:24:57.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$12.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a5d00410-cf02-4299-a5df-86c7ac51836e",
+    "companyId": "company_cdc2c0c2fd8c89c41b6c0e75b18adb0e",
+    "company": "Twilio",
+    "companyDomain": "twilio.com",
+    "role": "Senior Learning Experience Designer",
+    "applyUrl": "https://go.landed.jobs/fw8tngl",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "Strong copywriting and visual communication skills tailored specifically to high-performing sales audiences."
+    ],
+    "posted": "2026-10-08T22:05:21.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$29.9B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:95871078-cf3f-46aa-b12c-9f1dea8bbb64",
+    "companyId": "company_9ed265193c7622e1a776bdf68215f82d",
+    "company": "Mirage",
+    "companyDomain": "mirage.app",
+    "role": "Product Designer",
+    "applyUrl": "https://go.landed.jobs/963ho4j",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "product design",
+      "design systems",
+      "modern design and prototyping tools"
+    ],
+    "posted": "2026-10-08T16:13:31.057Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Digital Media 50",
+      "$500M valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:00269b30-1bc8-4fb3-bf7f-4c70e5fbabbf",
+    "companyId": "company_04c62724cd9e0419137f08bd40bab02f",
+    "company": "Acorns",
+    "companyDomain": "acorns.com",
+    "role": "Lead Product Designer (Contract)",
+    "applyUrl": "https://go.landed.jobs/6kni3cq",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "product design",
+      "consumer mobile"
+    ],
+    "posted": "2026-10-07T22:31:52.155Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$1.9B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:6e78f62c-c502-4ca9-815b-3d35376e8f09",
+    "companyId": "company_703f988973ae0a4f30ff0f32a1c066eb",
+    "company": "Fanatics",
+    "companyDomain": "fanatics.com",
+    "role": "Product Designer, Collector Engagement",
+    "applyUrl": "https://go.landed.jobs/dtf82ii",
+    "location": "Mexico · Mexico City, Mexico",
+    "locations": [
+      "Mexico",
+      "Mexico City, Mexico"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-10-07T14:07:07.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$31B valuation",
+      "Late stage"
+    ]
+  },
+  {
+    "dedupeKey": "job:7bfacf45-2166-47fc-b06d-87c818fa77f7",
+    "companyId": "company_f9ba2fb791e80b4c4dbe7c06f844338b",
+    "company": "Superhuman",
+    "companyDomain": "superhuman.com",
+    "role": "Growth Design Manager, Web & Acquisition",
+    "applyUrl": "https://go.landed.jobs/ee3jddc",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "",
+    "skills": [
+      "web technology",
+      "prototyping",
+      "A/B tests and multivariate experiments",
+      "interactive web experiences"
+    ],
+    "posted": "2026-10-07T07:19:43.687Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$13B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:ae79cca9-83bb-4010-9153-75adb6679de2",
     "companyId": "company_21328380aaecb2a92183bc9e93a82cd9",
     "company": "SKIMS",
@@ -31,6 +220,92 @@
     ]
   },
   {
+    "dedupeKey": "job:9e7d67c4-b512-4cca-a416-8bb4306f87fa",
+    "companyId": "company_6268792d1010ee198befb473acab3907",
+    "company": "Salesforce",
+    "companyDomain": "salesforce.com",
+    "role": "Communications Designer",
+    "applyUrl": "https://go.landed.jobs/e30lu6l",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Georgia",
+      "Maryland, Australia",
+      "Pennsylvania, PA",
+      "Florida, FL",
+      "Massachusetts, MA",
+      "Indiana, IN",
+      "North Carolina, NC",
+      "Washington, D.C., DC",
+      "Delaware, DE",
+      "Virginia, South Africa",
+      "Maine, WI",
+      "New York, NY",
+      "Raleigh, NC",
+      "Indianapolis, IN",
+      "Washington, WA",
+      "Connecticut, CT",
+      "New York City, NY",
+      "Atlanta, GA",
+      "Deerfield Beach, FL",
+      "Kentucky, KY",
+      "Chicago, IL",
+      "New Hampshire, NH",
+      "Iowa, LA",
+      "Illinois, IL",
+      "New Jersey, NJ",
+      "Boston, MA",
+      "Tampa, FL",
+      "Michigan, MI",
+      "McLean, VA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "",
+    "skills": [
+      "graphic design",
+      "visual communication",
+      "branding",
+      "After Effects"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$151B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f32a81b7-5b0c-4493-aed3-248a93fa7add",
+    "companyId": "company_6268792d1010ee198befb473acab3907",
+    "company": "Salesforce",
+    "companyDomain": "salesforce.com",
+    "role": "Summer 2027 Internship - Content Design",
+    "applyUrl": "https://go.landed.jobs/6588q3o",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "Bellevue, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "intern",
+    "skills": [
+      "UX writing ability",
+      "user-focused design thinking",
+      "using large language model (LLM) coding assistants and agentic tools",
+      "using Copilot, Cursor, Claude Code, Gemini or other agent-based frameworks"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$151B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:5c349dd5-294c-476f-838a-80d8911ab55e",
     "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
     "company": "Intuitive",
@@ -58,6 +333,65 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5f7aac82-f13e-49b6-bdf5-910169a58266",
+    "companyId": "company_f83ba09c9d8cd8e33af4c2365cda3aa9",
+    "company": "Rippling",
+    "companyDomain": "rippling.com",
+    "role": "Product Design Lead, AI Growth",
+    "applyUrl": "https://go.landed.jobs/a3wr3bk",
+    "location": "Seattle, WA +2",
+    "locations": [
+      "Seattle, WA",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "staff",
+    "skills": [
+      "LLMs",
+      "Cursor",
+      "Claude Code",
+      "prototype in code with AI tools"
+    ],
+    "posted": "2026-10-06T17:35:53.811Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC W17",
+      "$16.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:dd2ba243-3474-4eb6-8470-2bd96728a3d2",
+    "companyId": "company_f83ba09c9d8cd8e33af4c2365cda3aa9",
+    "company": "Rippling",
+    "companyDomain": "rippling.com",
+    "role": "Product Design Lead, IT",
+    "applyUrl": "https://go.landed.jobs/6borv2h",
+    "location": "Seattle, WA +2",
+    "locations": [
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "interaction and visual design skills",
+      "systems thinking",
+      "product design"
+    ],
+    "posted": "2026-10-06T17:09:24.027Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC W17",
+      "$16.8B valuation"
     ]
   },
   {
@@ -1575,64 +1909,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2c65727f-49ce-4c0c-b108-47ea642ae45b",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Lead Product Designer, Design Systems",
-    "applyUrl": "https://go.landed.jobs/nkdwo09",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "design system",
-      "AI",
-      "visual design",
-      "accessibility"
-    ],
-    "posted": "2026-09-24T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:bb6becf9-e5c8-428a-ad39-0a19cab3299c",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Senior Experience Architect (Professional Services)",
-    "applyUrl": "https://go.landed.jobs/mtnc4jn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Illinois, IL",
-      "Washington, WA",
-      "Indiana, IN",
-      "Texas, TX",
-      "Georgia"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "interactive—web and mobile applications, interactive design and user experience",
-      "research, workshops, and conducting interviews and synthesizing"
-    ],
-    "posted": "2026-09-24T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:3c75bc81-e53c-44f5-a752-2c6deb7d4ab2",
     "companyId": "company_c8e8f9f979e435f9efb6dd72f274fdd6",
     "company": "Discord",
@@ -2331,31 +2607,6 @@
     "location": "New York City, NY",
     "locations": [
       "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-18T06:27:30.299Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W17",
-      "$16.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:f2fd036b-b1ec-4e3d-b6a5-e0e377a0fb82",
-    "companyId": "company_f83ba09c9d8cd8e33af4c2365cda3aa9",
-    "company": "Rippling",
-    "companyDomain": "rippling.com",
-    "role": "Product Design Lead, IT Products",
-    "applyUrl": "https://go.landed.jobs/unjqklv",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "Seattle, WA"
     ],
     "remote": "",
     "region": "us",
@@ -3086,35 +3337,6 @@
     ]
   },
   {
-    "dedupeKey": "job:4e8b89e6-7b22-49d8-95ef-b84386439f4c",
-    "companyId": "company_acb4ffda1a668b448bd13d98fe3d194d",
-    "company": "Figma",
-    "companyDomain": "figma.com",
-    "role": "Product Design Intern (2027)",
-    "applyUrl": "https://go.landed.jobs/s35wjct",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "intern",
-    "skills": [
-      "Figma",
-      "product strategy",
-      "go"
-    ],
-    "posted": "2026-09-14T17:36:15.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.8B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:f772c7d9-b546-4d69-abfa-9511afbf4f2e",
     "companyId": "company_b85dd3427ef2b45c3aaebf9a9fc4362a",
     "company": "SHEIN",
@@ -3621,38 +3843,6 @@
     ]
   },
   {
-    "dedupeKey": "job:f2ca7033-600e-4cf5-a801-8d68df57d250",
-    "companyId": "company_e215e7f0632b5dcf7cfe0ddc13e85c35",
-    "company": "ŌURA",
-    "companyDomain": "ouraring.com",
-    "role": "Senior Product Designer, B2B eCommerce",
-    "applyUrl": "https://go.landed.jobs/jezscvd",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "UX design",
-      "UI design",
-      "user flows",
-      "wireframes",
-      "prototypes",
-      "responsive web design",
-      "prototyping",
-      "user research"
-    ],
-    "posted": "2026-09-09T17:31:58.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$11B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:86c81f84-6a58-41e7-b640-75a473930191",
     "companyId": "company_c1688e9b4c7a1dc950e389de2a104ccd",
     "company": "Roblox",
@@ -3770,12 +3960,149 @@
     ]
   },
   {
-    "dedupeKey": "job:9c4acbaa-fe92-472e-82ab-b8f6733d1003",
-    "companyId": "company_9fde7dc688e3065f59b799e8ee6e17f5",
-    "company": "Function Health",
-    "companyDomain": "functionhealth.com",
-    "role": "Senior Product Designer — SuppCo",
-    "applyUrl": "https://go.landed.jobs/m9mmvj8",
+    "dedupeKey": "job:a0735edd-246d-461c-b277-4c12c374ca0d",
+    "companyId": "company_0dac6745fd26c933e1d69a09aff5110e",
+    "company": "Nextdoor",
+    "companyDomain": "nextdoor.com",
+    "role": "Senior Designer, Monetization",
+    "applyUrl": "https://go.landed.jobs/yayeg2n",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US",
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "Adobe Analytics",
+      "Google Analytics",
+      "Mixpanel"
+    ],
+    "posted": "2026-10-08T21:39:39.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$850M valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b761eba1-0172-4013-9961-8cb21bae48dd",
+    "companyId": "company_5fbd59d8e9c61ae85dcdb87de5c0edd3",
+    "company": "Clear Labs",
+    "companyDomain": "clearlabs.com",
+    "role": "Manager, Product Design",
+    "applyUrl": "https://go.landed.jobs/zfytjsm",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "prototyping",
+      "user insights",
+      "analytics",
+      "continuous experimentation"
+    ],
+    "posted": "2026-10-08T21:35:06.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:d1eee268-ab90-4d9a-b307-2b1df6b1be6b",
+    "companyId": "company_5fbd59d8e9c61ae85dcdb87de5c0edd3",
+    "company": "Clear Labs",
+    "companyDomain": "clearlabs.com",
+    "role": "Senior Product Designer",
+    "applyUrl": "https://go.landed.jobs/7amhblx",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-08T21:21:36.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:a4e41c86-5aec-4605-a7f1-cac0489781f0",
+    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
+    "company": "ServiceNow",
+    "companyDomain": "servicenow.com",
+    "role": "Sr. Staff Product Designer, AI/ML",
+    "applyUrl": "https://go.landed.jobs/ufm53u8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "staff",
+    "skills": [
+      "AI-powered tools",
+      "high-fidelity specifications",
+      "user experience design"
+    ],
+    "posted": "2026-10-08T19:19:30.266Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$115B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:020a4269-b6cf-4f0a-b31a-213e665c0a46",
+    "companyId": "company_8f430a565079cbbf9144576d2c89aa29",
+    "company": "Clio",
+    "companyDomain": "clio.com",
+    "role": "Senior Product Designer, Payments",
+    "applyUrl": "https://go.landed.jobs/yxn5l72",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Vancouver, Canada",
+      "Canada",
+      "US",
+      "Toronto, Canada",
+      "Calgary, Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "designing digital products",
+      "designing scalable experiences across multiple customer segments and/or products",
+      "designing AI-powered features or workflows",
+      "Fintech and financial product design"
+    ],
+    "posted": "2026-10-08T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5B valuation",
+      "Series G"
+    ]
+  },
+  {
+    "dedupeKey": "job:4c5451be-0ad6-434d-ba75-5ca42ebbd2cc",
+    "companyId": "company_5a2e35f6daef19ee3fb40dbd2d92d5f2",
+    "company": "CCC Intelligent Solutions",
+    "companyDomain": "cccis.com",
+    "role": "Lead Product Designer",
+    "applyUrl": "https://go.landed.jobs/2k1owne",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -3785,107 +4112,297 @@
     "family": "design_research",
     "level": "senior",
     "skills": [
-      "product design",
-      "Design systems",
-      "Commerce, subscription, or transactional product experience",
-      "designing data-dense consumer interfaces",
-      "community, social, or content-discovery products",
-      "habit-forming products"
+      "user-centered design",
+      "systems thinking",
+      "modern design tools",
+      "AI",
+      "prototyping",
+      "storytelling"
     ],
-    "posted": "2026-09-08T22:53:25.498Z",
-    "companyTier": "A",
+    "posted": "2026-10-08T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$2.5B valuation"
+      "$3.6B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:e5345a13-3a26-4b2e-873d-2a8d39f8a3df",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "User Research Intern",
-    "applyUrl": "https://go.landed.jobs/6cwa5ca",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:d12f1ec8-5f6f-44b4-89a6-1dba058dc30c",
+    "companyId": "company_7a2ccbb95a0adccd1504478e83cfe54d",
+    "company": "Strava",
+    "companyDomain": "strava.com",
+    "role": "Senior Designer, Motion",
+    "applyUrl": "https://go.landed.jobs/gu2qr1v",
+    "location": "New York City, NY · San Francisco, CA",
     "locations": [
+      "New York City, NY",
       "San Francisco, CA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "design_research",
-    "level": "intern",
+    "level": "senior",
     "skills": [
-      "research reports",
-      "UX research"
+      "motion design language",
+      "motion systems and templates",
+      "AI tools",
+      "After Effects",
+      "Figma",
+      "Adobe Creative Suite",
+      "Rive",
+      "Cinema 4D",
+      "Spline",
+      "UI/UX motion"
     ],
-    "posted": "2026-09-08T22:17:48.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-07T22:44:49.091Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
+      "$2.2B valuation",
+      "Series F"
     ]
   },
   {
-    "dedupeKey": "job:c281a33c-60de-4ce3-b070-98770f4ddd20",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "Product Design Intern",
-    "applyUrl": "https://go.landed.jobs/2b86jhg",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:2a727a16-5b26-4fd4-97a9-39dbf6336ec8",
+    "companyId": "company_f8d86a2051e90c8a3e0658cd7324b57f",
+    "company": "Iru",
+    "companyDomain": "iru.com",
+    "role": "Senior Product Designer",
+    "applyUrl": "https://go.landed.jobs/ncmgaup",
+    "location": "Miami, FL",
     "locations": [
-      "San Francisco, CA"
+      "Miami, FL"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "design_research",
-    "level": "intern",
+    "level": "senior",
     "skills": [
       "Figma",
-      "AI-assisted coding tools",
-      "human-centered design methods",
-      "structured problem-solving frameworks"
+      "UX/UI design tools",
+      "component-based design systems",
+      "mentoring",
+      "B2B SaaS platforms"
     ],
-    "posted": "2026-09-08T22:14:49.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-07T20:15:36.735Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
+      "$850M valuation",
+      "Series D"
     ]
   },
   {
-    "dedupeKey": "job:d3d6b220-517e-49dd-82e3-92dd56f70ff2",
-    "companyId": "company_f83ba09c9d8cd8e33af4c2365cda3aa9",
-    "company": "Rippling",
-    "companyDomain": "rippling.com",
-    "role": "Product Design Lead, HRIS",
-    "applyUrl": "https://go.landed.jobs/4otb53d",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:33a92c73-13e0-4f21-88f8-76c7df53005a",
+    "companyId": "company_647e9bbe1e445f3b284f4475fee87511",
+    "company": "Anysphere",
+    "companyDomain": "cursor.com",
+    "role": "Senior Brand Designer",
+    "applyUrl": "https://go.landed.jobs/u8vp9sw",
+    "location": "San Francisco, CA · New York City, NY",
     "locations": [
-      "San Francisco, CA"
+      "San Francisco, CA",
+      "New York City, NY"
     ],
     "remote": "",
     "region": "us",
     "family": "design_research",
     "level": "senior",
     "skills": [
-      "end-to-end product design",
-      "LLMs (Claude, ChatGPT, or similar)"
+      "brand systems",
+      "visual identity",
+      "logo",
+      "typography",
+      "color",
+      "layout",
+      "imagery",
+      "graphic language",
+      "templates",
+      "tools",
+      "generators"
     ],
-    "posted": "2026-09-08T16:38:59.975Z",
-    "companyTier": "A",
+    "posted": "2026-10-07T18:38:43.074Z",
+    "companyTier": "B",
     "companyBadges": [
-      "YC W17",
-      "$16.8B valuation"
+      "Series D"
     ]
   },
   {
-    "dedupeKey": "job:c3e21ced-7d17-4b28-a6b8-467725dfb228",
-    "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
-    "company": "Zip",
-    "companyDomain": "ziphq.com",
-    "role": "Senior Product Designer",
-    "applyUrl": "https://go.landed.jobs/f9inkyx",
+    "dedupeKey": "job:f366777d-8d94-40a8-a65f-5c44400d7992",
+    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
+    "company": "ServiceNow",
+    "companyDomain": "servicenow.com",
+    "role": "Senior Demo Designer",
+    "applyUrl": "https://go.landed.jobs/s99hluv",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "Figma",
+      "component-based design",
+      "auto layout",
+      "variants",
+      "prototyping",
+      "AI-assisted prototyping workflows",
+      "code-assisted tools"
+    ],
+    "posted": "2026-10-07T17:10:12.422Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$115B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:3b0f798f-d21b-4bb9-8d2e-0e3e09084710",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "Senior User Experience Researcher",
+    "applyUrl": "https://go.landed.jobs/b25i456",
+    "location": "Austin, TX · Westlake, TX",
+    "locations": [
+      "Austin, TX",
+      "Westlake, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "user experience research",
+      "AI-enabled solutions",
+      "statistics"
+    ],
+    "posted": "2026-10-07T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:35e78ce4-88c1-458c-882f-9f73b9b150fa",
+    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
+    "company": "Nike",
+    "companyDomain": "nike.com",
+    "role": "Designer Color Design",
+    "applyUrl": "https://go.landed.jobs/j3ev6qj",
+    "location": "Beaverton, OR",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4be08de6-215f-4fd6-96fc-c0dcb30659f2",
+    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
+    "company": "Capital One",
+    "companyDomain": "capitalone.com",
+    "role": "Senior Manager, Content Design (Product Design)",
+    "applyUrl": "https://go.landed.jobs/l63qk2p",
+    "location": "New York City, NY +2",
+    "locations": [
+      "New York City, NY",
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "content design, content strategy, or UX writing",
+      "working with and contributing to an established design system",
+      "collaborating with product, tech and business partners"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:6af20e47-5084-4def-9da4-5de335d0d7c1",
+    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
+    "company": "Nike",
+    "companyDomain": "nike.com",
+    "role": "Senior Expert, Retail Execution Partners Design NA",
+    "applyUrl": "https://go.landed.jobs/c1fkogj",
+    "location": "Beaverton, OR",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "",
+    "skills": [
+      "environmental design",
+      "materials and fixture systems",
+      "spatial design",
+      "graphic and digital integration",
+      "trends in color, art, architecture and experience design, graphic design",
+      "delivering complex projects of varying scale, budgets, and timelines",
+      "partner doors, franchise, license, department store and concession retail environments",
+      "stakeholder management and presentation skills"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:89060dd0-c432-425c-bc94-c1ae20560411",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Graphic Designer, Senior",
+    "applyUrl": "https://go.landed.jobs/2zyqn71",
+    "location": "McLean, VA",
+    "locations": [
+      "McLean, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "Adobe Creative Cloud",
+      "InDesign",
+      "Illustrator",
+      "Photoshop",
+      "Acrobat Pro",
+      "data visualization",
+      "technical illustration",
+      "infographic production",
+      "brand management"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a1bb07a7-b660-4325-b20a-69bfd197a800",
+    "companyId": "company_80929f1f8ae945c803149bcea7ae6817",
+    "company": "Omnicom Group",
+    "companyDomain": "omc.com",
+    "role": "VP, Associate Creative Director-Art",
+    "applyUrl": "https://go.landed.jobs/asosvp1",
     "location": "New York City, NY",
     "locations": [
       "New York City, NY"
@@ -3893,133 +4410,162 @@
     "remote": "hybrid",
     "region": "us",
     "family": "design_research",
-    "level": "senior",
+    "level": "vp",
     "skills": [
-      "UX Research",
-      "visual design",
-      "prototyping with Claude, Figma Make, Cursor"
+      "Visual Communications",
+      "Graphic Design",
+      "Art Direction",
+      "Design"
     ],
-    "posted": "2026-09-08T15:43:03.478Z",
-    "companyTier": "A",
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "YC S20",
-      "$2.2B valuation"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:9186866b-0fb0-466a-afcc-f783759b147e",
-    "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
-    "company": "Zip",
-    "companyDomain": "ziphq.com",
-    "role": "Product Designer, Contract Orchestration",
-    "applyUrl": "https://go.landed.jobs/hiiedb8",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:d7aef75c-6069-4437-b1de-f37d29525ce3",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "Creative Design Summer Analyst – New York – NAELFY27",
+    "applyUrl": "https://go.landed.jobs/rq8ct5e",
+    "location": "New York City, NY",
     "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "UX Research",
-      "visual design",
-      "prototyping with Claude, Figma Make, Cursor"
-    ],
-    "posted": "2026-09-08T15:38:03.659Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S20",
-      "$2.2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:cb72aadb-b92a-4f69-bf44-3644100754e5",
-    "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
-    "company": "Zip",
-    "companyDomain": "ziphq.com",
-    "role": "Staff Product Designer, AI Agents & Chat",
-    "applyUrl": "https://go.landed.jobs/ydfml1o",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [
-      "UX Research",
-      "visual design",
-      "prototyping with Claude, Figma Make, Cursor"
-    ],
-    "posted": "2026-09-08T15:24:23.871Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S20",
-      "$2.2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:91b9f49b-c59e-4d2c-a394-700e46d9bdaf",
-    "companyId": "company_77238179e027dbaedd494baba08a21c3",
-    "company": "Nord Security",
-    "companyDomain": "nordsecurity.com",
-    "role": "Design Engineer | Mid-Senior",
-    "applyUrl": "https://go.landed.jobs/3j2zgx7",
-    "location": "🌐 Remote (Poland)",
-    "locations": [
-      "Poland"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "mid",
-    "skills": [
-      "ReactKit",
-      "AstroKit",
-      "AppKit",
-      "WCAG AA",
-      "Figma",
-      "Plugin API",
-      "MCP",
-      "Storybook.js",
-      "Style Dictionary",
-      "DTCG format"
-    ],
-    "posted": "2026-09-08T13:03:59.144Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e5465f90-2ab7-4cbc-8bf7-dac33322ee22",
-    "companyId": "company_21328380aaecb2a92183bc9e93a82cd9",
-    "company": "SKIMS",
-    "companyDomain": "skims.com",
-    "role": "Senior Packaging Designer",
-    "applyUrl": "https://go.landed.jobs/062iy80",
-    "location": "Los Angeles, CA",
-    "locations": [
-      "Los Angeles, CA"
+      "New York City, NY"
     ],
     "remote": "",
     "region": "us",
     "family": "design_research",
+    "level": "intern",
+    "skills": [
+      "creative concept development",
+      "visual assets",
+      "designing marketing materials"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$118B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:edf47b63-2f91-44e8-9c21-5fa5e206ba22",
+    "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
+    "company": "FIS",
+    "companyDomain": "fisglobal.com",
+    "role": "Designer, User Research Technology",
+    "applyUrl": "https://go.landed.jobs/44jc7cy",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
     "level": "senior",
     "skills": [
-      "packaging design",
-      "3D design",
-      "rendering",
-      "visualization software"
+      "end-to-end mixed-methods UX research",
+      "customer segmentation",
+      "Jobs-to-be-Done",
+      "in-depth interviews",
+      "surveys",
+      "behavioral analytics"
     ],
-    "posted": "2026-09-07T09:41:43.447Z",
-    "companyTier": "A",
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp E-Commerce 50",
-      "$5B valuation"
+      "$19.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:f92bfd8e-646e-4e88-ae48-5881fd5a61bf",
+    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
+    "company": "Capital One",
+    "companyDomain": "capitalone.com",
+    "role": "Director, Research & User Intelligence, Auto Finance",
+    "applyUrl": "https://go.landed.jobs/x7r1d6h",
+    "location": "Plano, TX",
+    "locations": [
+      "Plano, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "director",
+    "skills": [
+      "primary research",
+      "quantitative analysis",
+      "human factors",
+      "digital product design",
+      "quantitative data analysis"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:fe3db789-1984-43ea-8dc5-0fbb433665c9",
+    "companyId": "company_0fa1df6c14b8d03e56708aa1751f26de",
+    "company": "WHOOP",
+    "companyDomain": "whoop.com",
+    "role": "Retail Experience Design Specialist I",
+    "applyUrl": "https://go.landed.jobs/v6c2w05",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "entry",
+    "skills": [
+      "architectural design and 3D modeling, including Rhino",
+      "visualization tools, including KeyShot and Enscape",
+      "presentation tools, including Figma",
+      "Adobe Creative Suite, including Photoshop"
+    ],
+    "posted": "2026-10-06T19:21:46.831Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$10.1B valuation",
+      "Series F"
+    ]
+  },
+  {
+    "dedupeKey": "job:eea8bfaf-777d-48bd-a4f3-a9c7102b4274",
+    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
+    "company": "ServiceNow",
+    "companyDomain": "servicenow.com",
+    "role": "Senior UX Design Strategist",
+    "applyUrl": "https://go.landed.jobs/u3u79xd",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "Service Design",
+      "design thinking",
+      "UX",
+      "prototypes",
+      "web application",
+      "responsive web design",
+      "storytelling",
+      "communication design"
+    ],
+    "posted": "2026-10-06T17:07:05.435Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$115B valuation",
+      "Public"
     ]
   },
   {
@@ -4047,6 +4593,39 @@
     "companyBadges": [
       "$6.5B valuation",
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a8730121-a5cb-4436-97af-cb092df1babc",
+    "companyId": "company_b0cf29a2a328e83c15bcabe363ed9a95",
+    "company": "Hex",
+    "companyDomain": "hex.tech",
+    "role": "Brand Designer",
+    "applyUrl": "https://go.landed.jobs/x3az1yg",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US",
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "",
+    "skills": [
+      "illustration",
+      "image-making",
+      "graphic design",
+      "animation",
+      "prototyping",
+      "typography",
+      "brand campaigns",
+      "visual identity"
+    ],
+    "posted": "2026-10-06T16:31:24.834Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series C"
     ]
   },
   {
@@ -4139,6 +4718,92 @@
     ]
   },
   {
+    "dedupeKey": "job:07b84d80-9842-414f-acae-83a67f08b551",
+    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
+    "company": "Capital One",
+    "companyDomain": "capitalone.com",
+    "role": "Product Design Manager",
+    "applyUrl": "https://go.landed.jobs/lyeam3y",
+    "location": "New York City, NY +2",
+    "locations": [
+      "New York City, NY",
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "design and prototyping tools such as Figma",
+      "design system",
+      "journey maps",
+      "blueprints",
+      "high-fidelity designs",
+      "prototypes"
+    ],
+    "posted": "2026-10-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:2fd949ef-981c-4b4a-900d-b5952dcb1159",
+    "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
+    "company": "FIS",
+    "companyDomain": "fisglobal.com",
+    "role": "Systems & AI Interaction Designer (UI), FIS University Program",
+    "applyUrl": "https://go.landed.jobs/69y6tw1",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "entry",
+    "skills": [
+      "user-centered design principles",
+      "interaction design concepts",
+      "design, prototyping, or collaboration tools"
+    ],
+    "posted": "2026-10-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$19.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:604b3562-0bd2-4ed6-9c24-a924f1a20df3",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "User Experience Engineer - 6486196",
+    "applyUrl": "https://go.landed.jobs/8llyyt1",
+    "location": "Bentonville, AR",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "mid",
+    "skills": [
+      "prototype work",
+      "software engineering",
+      "user experience",
+      "interface development"
+    ],
+    "posted": "2026-10-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$118B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:7773e812-5d38-438e-8693-af2e0ce8ae12",
     "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
     "company": "Cisco",
@@ -4168,6 +4833,60 @@
     "posted": "2026-10-06T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b6ce6507-2c6f-45b1-8df7-5e3fc601d759",
+    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
+    "company": "Nike",
+    "companyDomain": "nike.com",
+    "role": "Designer II, Core Studio Footwear Materials Design Expression",
+    "applyUrl": "https://go.landed.jobs/jzrsrep",
+    "location": "Beaverton, OR",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "mid",
+    "skills": [
+      "building inspiration/concept presentations, and mood boards",
+      "building 3D samples and creating mockup samples by hand",
+      "3D software tools, like Substance, for material renders and AI generative tools for concept creation",
+      "product budgets and meeting targets"
+    ],
+    "posted": "2026-10-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:f3d1216c-8bf5-4056-8d9f-2579a8e16b3e",
+    "companyId": "company_1d67bbc9737b3cd194e4b9fa31509887",
+    "company": "Workday",
+    "companyDomain": "workday.com",
+    "role": "Director, Change Enablement & UX (Business Technology)",
+    "applyUrl": "https://go.landed.jobs/u4wpxd9",
+    "location": "Pleasanton, CA",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "director",
+    "skills": [
+      "organizational change management",
+      "user-centered design",
+      "user experience (UX)"
+    ],
+    "posted": "2026-10-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$39.6B valuation",
       "Public"
     ]
   },
@@ -4389,6 +5108,34 @@
       "User Experience & Research",
       "systems design",
       "designing AI-powered products or complex data-driven systems"
+    ],
+    "posted": "2026-10-05T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$13.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b876fa5e-3e43-4bfb-be7d-2e58ed532091",
+    "companyId": "company_7349adb1e0982b0b117b6ca1bd096c75",
+    "company": "Trimble",
+    "companyDomain": "trimble.com",
+    "role": "Product Designer",
+    "applyUrl": "https://go.landed.jobs/23mr68p",
+    "location": "Alpharetta, GA · Austin, TX",
+    "locations": [
+      "Alpharetta, GA",
+      "Austin, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "user discovery and design validation",
+      "AI tools and user experiences",
+      "AI-driven product experiences and emerging interaction patterns"
     ],
     "posted": "2026-10-05T00:00:00.000Z",
     "companyTier": "B",
@@ -4782,33 +5529,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b32bb5cf-f9fa-46cc-94f0-ebe917d3e4cb",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Droga5 Senior Art Director",
-    "applyUrl": "https://go.landed.jobs/cbdp8zu",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Art Direction",
-      "production experience",
-      "presentation skills"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
       "Public"
     ]
   },
@@ -5791,39 +6511,6 @@
     ]
   },
   {
-    "dedupeKey": "job:8c391a40-422f-4599-8c33-d0c6dae68d59",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Content Designer (Remote)",
-    "applyUrl": "https://go.landed.jobs/svld9um",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Durham, NC",
-      "Georgia",
-      "Austin, TX",
-      "Boulder, CO",
-      "Chicago, IL",
-      "Portland, OR"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Figma",
-      "design systems",
-      "information architecture",
-      "taxonomy",
-      "UI text craft"
-    ],
-    "posted": "2026-09-30T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:948a978f-eb39-452f-b589-268b91f95efd",
     "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
     "company": "Philips",
@@ -5943,34 +6630,6 @@
     ]
   },
   {
-    "dedupeKey": "job:941f5261-12a0-4c47-bfc8-e0318170e7da",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Manager, Product Design, Customer & Partner Experience",
-    "applyUrl": "https://go.landed.jobs/k2wn543",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "mid",
-    "skills": [
-      "UX Design",
-      "Interaction Design",
-      "Enterprise Design",
-      "integrating AI into work processes"
-    ],
-    "posted": "2026-09-29T17:07:13.383Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:bac6f3eb-c5bf-4754-8338-08c4cab01805",
     "companyId": "company_5ff505e5eb3566d3a4220d2ca17f2797",
     "company": "Latent",
@@ -6050,33 +6709,6 @@
       "data visualization"
     ],
     "posted": "2026-09-29T04:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:23595f8f-c3a2-4006-b1bf-8f46700db9e2",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Senior Manager (IC), Product Designer",
-    "applyUrl": "https://go.landed.jobs/sazidt1",
-    "location": "McLean, VA +2",
-    "locations": [
-      "McLean, VA",
-      "New York City, NY",
-      "Richmond, VA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Figma",
-      "design system"
-    ],
-    "posted": "2026-09-29T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
       "Public"
@@ -6245,35 +6877,6 @@
       "Tableau",
       "video production",
       "illustration"
-    ],
-    "posted": "2026-09-29T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e223c823-eb91-425e-93f1-6b67a56e42fa",
-    "companyId": "company_80929f1f8ae945c803149bcea7ae6817",
-    "company": "Omnicom Group",
-    "companyDomain": "omc.com",
-    "role": "Design Director",
-    "applyUrl": "https://go.landed.jobs/jcc3px5",
-    "location": "Irving, TX",
-    "locations": [
-      "Irving, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "director",
-    "skills": [
-      "Adobe Creative Suite",
-      "Photoshop",
-      "Illustrator",
-      "PowerPoint",
-      "Figma",
-      "UI/UX principles"
     ],
     "posted": "2026-09-29T00:00:00.000Z",
     "companyTier": "B",
@@ -6618,32 +7221,6 @@
     ]
   },
   {
-    "dedupeKey": "job:952b1260-4d0a-4960-b393-4ad95886fb34",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Senior Manager (IC), Product Designer",
-    "applyUrl": "https://go.landed.jobs/emjxtoq",
-    "location": "McLean, VA +2",
-    "locations": [
-      "McLean, VA",
-      "New York City, NY",
-      "Richmond, VA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Figma"
-    ],
-    "posted": "2026-09-28T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:b3ed1e6f-a047-4593-bc4d-f7e988b5cbc0",
     "companyId": "company_d91d895a1410bab62944c6f4336ac218",
     "company": "Snap",
@@ -6670,111 +7247,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$7.9B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b9cfd26c-4a92-48ba-9cf8-46bb741aa254",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Principal Associate, Product Designer",
-    "applyUrl": "https://go.landed.jobs/jfztczy",
-    "location": "Plano, TX",
-    "locations": [
-      "Plano, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "principal",
-    "skills": [
-      "design and prototyping tools, such as Figma",
-      "interaction, visual and service design",
-      "journey maps, blueprints, high-fidelity designs and prototypes",
-      "design system"
-    ],
-    "posted": "2026-09-28T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:dc5dd317-610e-46e9-8926-c9af5047eb7e",
-    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
-    "company": "Nike",
-    "companyDomain": "nike.com",
-    "role": "Expert Designer, Tennis Apparel Product Design",
-    "applyUrl": "https://go.landed.jobs/sodb6s6",
-    "location": "Beaverton, OR",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "apparel design",
-      "prototyping",
-      "digital and physical prototyping tools",
-      "storytelling"
-    ],
-    "posted": "2026-09-28T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e170499c-1697-4479-ad37-52a06bc477d0",
-    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
-    "company": "Nike",
-    "companyDomain": "nike.com",
-    "role": "Expert, Global Brand Experience, Seasonal Design",
-    "applyUrl": "https://go.landed.jobs/m209shg",
-    "location": "Beaverton, OR",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-28T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:483fba49-17df-453b-8c98-46260758d8f6",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Sr. Staff Product Designer, Mobile Experience Strategy & Systems",
-    "applyUrl": "https://go.landed.jobs/y8sgzlz",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [
-      "systems thinking",
-      "mobile product strategy",
-      "interaction design leadership",
-      "hands-on design direction",
-      "prototypes"
-    ],
-    "posted": "2026-09-26T03:12:04.607Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
       "Public"
     ]
   },
@@ -6870,40 +7342,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$8.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:01433aac-2b20-4b4a-af09-68a638fae29f",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Sr. Staff Product & Visual Designer, Technology Workflows",
-    "applyUrl": "https://go.landed.jobs/kbyrd8p",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Denver, CO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [
-      "high-end digital aesthetics",
-      "front-end engineering",
-      "kinetic responsiveness",
-      "production-grade prototypes",
-      "scaling tokens and kinetic animation systems",
-      "designing and engineering for dynamic AI interactions",
-      "agentic state visualization",
-      "streaming tokens",
-      "responsive real-time feedback loops",
-      "consumer-grade polish"
-    ],
-    "posted": "2026-09-25T16:51:28.463Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
       "Public"
     ]
   },
@@ -7011,68 +7449,6 @@
     "posted": "2026-09-25T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:aaa12577-da0f-4d86-b672-53833b525e02",
-    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
-    "company": "Nike",
-    "companyDomain": "nike.com",
-    "role": "Director, Basketball Apparel Product Design, Global Jordan",
-    "applyUrl": "https://go.landed.jobs/xcmg7aj",
-    "location": "Beaverton, OR",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "director",
-    "skills": [
-      "Photoshop",
-      "Illustrator",
-      "sketching",
-      "illustration",
-      "rendering",
-      "Cobbling",
-      "prototyping",
-      "3D design programs",
-      "Ai design programs",
-      "sustainable design",
-      "manufacturing"
-    ],
-    "posted": "2026-09-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b876fa5e-3e43-4bfb-be7d-2e58ed532091",
-    "companyId": "company_7349adb1e0982b0b117b6ca1bd096c75",
-    "company": "Trimble",
-    "companyDomain": "trimble.com",
-    "role": "Product Designer",
-    "applyUrl": "https://go.landed.jobs/23mr68p",
-    "location": "Alpharetta, GA · Austin, TX",
-    "locations": [
-      "Alpharetta, GA",
-      "Austin, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "user discovery and design validation",
-      "AI tools and user experiences",
-      "AI-driven product experiences and emerging interaction patterns"
-    ],
-    "posted": "2026-09-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$13.2B valuation",
       "Public"
     ]
   },
@@ -7193,62 +7569,6 @@
     "companyBadges": [
       "$580M valuation",
       "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:fdf88150-8752-4c3c-aca4-f2fea4e21b5e",
-    "companyId": "company_a4b73ca28fc2fd2f43b0eea08351c1e1",
-    "company": "Algolia",
-    "companyDomain": "algolia.com",
-    "role": "VP, Product Design",
-    "applyUrl": "https://go.landed.jobs/qbeau4d",
-    "location": "🌐 Remote (UK, US)",
-    "locations": [
-      "London, UK",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "vp",
-    "skills": [
-      "AI agents",
-      "Product Discovery",
-      "go"
-    ],
-    "posted": "2026-09-24T16:06:21.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.3B valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:212ed04e-40ad-4852-a160-a09c780df7d1",
-    "companyId": "company_a4b73ca28fc2fd2f43b0eea08351c1e1",
-    "company": "Algolia",
-    "companyDomain": "algolia.com",
-    "role": "VP, Product Design",
-    "applyUrl": "https://go.landed.jobs/p3kblk7",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "vp",
-    "skills": [
-      "AI agents",
-      "Product Discovery",
-      "go"
-    ],
-    "posted": "2026-09-24T16:06:16.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.3B valuation",
-      "Series D"
     ]
   },
   {
@@ -8315,35 +8635,6 @@
     ]
   },
   {
-    "dedupeKey": "job:075cf864-5d20-453c-99be-5816e73c66a7",
-    "companyId": "company_a504b430a7956215db66d846f8835b57",
-    "company": "Pointclickcare",
-    "companyDomain": "pointclickcare.com",
-    "role": "Senior UX Researcher – 6 month contract",
-    "applyUrl": "https://go.landed.jobs/o9u20y5",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "qualitative and quantitative research skills",
-      "research and survey tools such as Dovetail, User Interviews, Salesforce, SurveyMonkey, Qualtrics",
-      "analytics or product-experience platforms such as Pendo",
-      "AI tools such as Claude and Microsoft Copilot",
-      "Figma and Miro"
-    ],
-    "posted": "2026-09-18T20:17:04.141Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$4B valuation",
-      "Late stage"
-    ]
-  },
-  {
     "dedupeKey": "job:6dc4717c-69d0-4f98-9816-5d13b7a73534",
     "companyId": "company_2015f10d20b9c0d855a969f01e967837",
     "company": "Wefunder",
@@ -8545,275 +8836,6 @@
     "companyBadges": [
       "YC W24",
       "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:2dafa915-5cbd-45aa-83dc-8d9c350e974b",
-    "companyId": "company_7699e7d57b462e8636109574e0e0995a",
-    "company": "Joy",
-    "companyDomain": "withjoy.com",
-    "role": "Senior Product Designer",
-    "applyUrl": "https://go.landed.jobs/mcy3ltb",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Framer or Origami prototyping tools",
-      "UI design system",
-      "user research",
-      "layout, typography, color, and other graphic design principles"
-    ],
-    "posted": "2026-09-18T06:05:50.321Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S16",
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:47a4214b-aec7-4726-8225-d8c3339d9460",
-    "companyId": "company_6c30eda6a0937246c560727512cf8afb",
-    "company": "CoStar Group",
-    "companyDomain": "costargroup.com",
-    "role": "Director, Product Design, LoopNet",
-    "applyUrl": "https://go.landed.jobs/nqvlhbw",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "director",
-    "skills": [
-      "Product Design",
-      "scaling design systems",
-      "mentoring talent",
-      "aligning design strategy with business goals",
-      "user needs through research, feedback, and data analysis",
-      "AI into the design process"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$11.7B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:596a657b-a670-49b8-9dc7-af493501b14e",
-    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
-    "company": "Adobe",
-    "companyDomain": "adobe.com",
-    "role": "Group Product Design Manager, Systems",
-    "applyUrl": "https://go.landed.jobs/g38oktd",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "",
-    "skills": [
-      "TypeScript",
-      "React",
-      "CSS",
-      "animation",
-      "Electron"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:81bfdefe-831c-451a-bd57-b563b04fc561",
-    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
-    "company": "Adobe",
-    "companyDomain": "adobe.com",
-    "role": "Senior Designer, Adobe Creative",
-    "applyUrl": "https://go.landed.jobs/lboz5t6",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "design",
-      "art direction",
-      "Creative Cloud",
-      "Firefly",
-      "AI-enabled workflows",
-      "brand systems",
-      "systems thinking",
-      "modular frameworks"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:9a9bdcf5-1dd6-413b-97b3-c2ef92653e34",
-    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
-    "company": "Adobe",
-    "companyDomain": "adobe.com",
-    "role": "Head of Design, Adobe Creative",
-    "applyUrl": "https://go.landed.jobs/ab4pl0m",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "Los Angeles, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "director",
-    "skills": [
-      "typography",
-      "image-making",
-      "art direction",
-      "motion",
-      "digital behavior",
-      "spatial experience",
-      "editorial thinking",
-      "emerging technology",
-      "AI",
-      "AI-enabled workflows"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a00102da-139e-40b7-8f70-4b785d15bfab",
-    "companyId": "company_8f430a565079cbbf9144576d2c89aa29",
-    "company": "Clio",
-    "companyDomain": "clio.com",
-    "role": "Senior Product Designer, Enterprise",
-    "applyUrl": "https://go.landed.jobs/6uqw2uk",
-    "location": "🌐 Remote (Canada, US)",
-    "locations": [
-      "New York City, NY",
-      "Canada",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Figma",
-      "Figma Make"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5B valuation",
-      "Series G"
-    ]
-  },
-  {
-    "dedupeKey": "job:b35c1551-0b07-42b5-94aa-9f710278dbb4",
-    "companyId": "company_d7b824f4372bb3451701af40e8055d08",
-    "company": "Thomson Reuters",
-    "companyDomain": "thomsonreuters.com",
-    "role": "Sr. UX Designer",
-    "applyUrl": "https://go.landed.jobs/f9t9wz7",
-    "location": "Frisco, TX +3",
-    "locations": [
-      "Frisco, TX",
-      "Toronto, Canada",
-      "Ann Arbor, MI",
-      "Eagan, MN"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "prompt design",
-      "generative UX",
-      "end-to-end user research",
-      "interaction design"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5feb0735-d24d-4afd-be8c-40a885af89c0",
-    "companyId": "company_fa5f4f119cb60b748d096e4cafe91503",
-    "company": "Campfire",
-    "companyDomain": "campfire.ai",
-    "role": "Staff Design Engineer",
-    "applyUrl": "https://go.landed.jobs/97nehse",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [],
-    "posted": "2026-09-17T18:17:31.192Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S23",
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:559e2a3d-2ed3-4f0c-b0c3-54f0af090564",
-    "companyId": "company_dcb4a61512a7d1bf705fecb96527f0f8",
-    "company": "Handshake",
-    "companyDomain": "joinhandshake.com",
-    "role": "Staff Product Designer, Autonomous Recruiting",
-    "applyUrl": "https://go.landed.jobs/lgvvccz",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [
-      "product design",
-      "generative AI tools",
-      "chat",
-      "composer",
-      "agent interaction patterns",
-      "wireframes",
-      "prototypes",
-      "interaction prototypes",
-      "high-fidelity mocks",
-      "user flows"
-    ],
-    "posted": "2026-09-17T14:23:58.259Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.5B valuation"
     ]
   }
 ]
