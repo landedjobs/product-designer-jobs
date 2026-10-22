@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://go.landed.jobs/yit3v8a"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></a>
+<a href="https://go.landed.jobs/yit3v8a"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></picture></a>
 
 <img src="https://static.b100x.ai/github-repos/images/product-designer-jobs/banner.svg" alt="Product Designer Jobs (2026)" width="100%">
 
