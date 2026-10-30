@@ -27,6 +27,66 @@
     ]
   },
   {
+    "dedupeKey": "job:f0162cfb-9d56-422c-af40-406bf617ab8f",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Staff Brand Designer",
+    "applyUrl": "https://go.landed.jobs/l4ngzz9",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "staff",
+    "skills": [
+      "Figma",
+      "Adobe Creative Suite",
+      "typography",
+      "art direction",
+      "photography",
+      "visual storytelling"
+    ],
+    "posted": "2026-10-29T22:35:17.573Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2c784ee7-7940-4149-ac7c-6e024c4cd886",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Staff Brand Designer",
+    "applyUrl": "https://go.landed.jobs/lc4q9l0",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "staff",
+    "skills": [
+      "Figma",
+      "Adobe Creative Suite",
+      "typography",
+      "art direction",
+      "photography",
+      "visual storytelling"
+    ],
+    "posted": "2026-10-29T22:35:07.663Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b5c68d38-0305-40bb-8187-97ccbd1ffcd0",
     "companyId": "company_49e924152eb5299fcce277ca5357ec80",
     "company": "Vuori",
@@ -91,6 +151,56 @@
     ]
   },
   {
+    "dedupeKey": "job:06a77a1b-d04d-47ea-9ed7-c4cf08536c2d",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Senior Product Designer",
+    "applyUrl": "https://go.landed.jobs/6dimly5",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-29T19:32:42.893Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:14b59d14-591b-4d24-832d-f0223261d42e",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Senior Product Designer",
+    "applyUrl": "https://go.landed.jobs/8rp2wzp",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "design system",
+      "user research",
+      "prototypes"
+    ],
+    "posted": "2026-10-29T19:32:12.639Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:bc0fe884-7527-4b1d-9da7-4fbcdfab5b6e",
     "companyId": "company_c1688e9b4c7a1dc950e389de2a104ccd",
     "company": "Roblox",
@@ -116,6 +226,34 @@
     "companyBadges": [
       "TrueUp Digital Media 50",
       "$25.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9b145035-28d0-4a06-a53a-75502421b05b",
+    "companyId": "company_176d0805b9ffa8beff1b5e4e79574650",
+    "company": "Rox",
+    "companyDomain": "rox.com",
+    "role": "Principal Product Designer",
+    "applyUrl": "https://go.landed.jobs/wj4abct",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "principal",
+    "skills": [
+      "product design",
+      "applied AI",
+      "design system",
+      "prototyping with code or AI tools"
+    ],
+    "posted": "2026-10-29T18:58:09.638Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$1.2B valuation"
     ]
   },
   {
@@ -4034,6 +4172,28 @@
     "companyTier": "B",
     "companyBadges": [
       "$15.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:7e6178ff-a959-47cc-b8e7-015e8b8cc59c",
+    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
+    "company": "Philips",
+    "companyDomain": "philips.com",
+    "role": "Intern - Industrial Design - Murrysville, PA - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/uy62i5n",
+    "location": "Murrysville, PA",
+    "locations": [
+      "Murrysville, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
       "Public"
     ]
   },
@@ -8601,191 +8761,6 @@
     "companyBadges": [
       "$3.6B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2a727a16-5b26-4fd4-97a9-39dbf6336ec8",
-    "companyId": "company_f8d86a2051e90c8a3e0658cd7324b57f",
-    "company": "Iru",
-    "companyDomain": "iru.com",
-    "role": "Senior Product Designer",
-    "applyUrl": "https://go.landed.jobs/ncmgaup",
-    "location": "Miami, FL",
-    "locations": [
-      "Miami, FL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Figma",
-      "UX/UI design tools",
-      "component-based design systems",
-      "mentoring",
-      "B2B SaaS platforms"
-    ],
-    "posted": "2026-10-07T20:15:36.735Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$850M valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:89060dd0-c432-425c-bc94-c1ae20560411",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Graphic Designer, Senior",
-    "applyUrl": "https://go.landed.jobs/2zyqn71",
-    "location": "McLean, VA",
-    "locations": [
-      "McLean, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Adobe Creative Cloud",
-      "InDesign",
-      "Illustrator",
-      "Photoshop",
-      "Acrobat Pro",
-      "data visualization",
-      "technical illustration",
-      "infographic production",
-      "brand management"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:fe3db789-1984-43ea-8dc5-0fbb433665c9",
-    "companyId": "company_0fa1df6c14b8d03e56708aa1751f26de",
-    "company": "WHOOP",
-    "companyDomain": "whoop.com",
-    "role": "Retail Experience Design Specialist I",
-    "applyUrl": "https://go.landed.jobs/v6c2w05",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "entry",
-    "skills": [
-      "architectural design and 3D modeling, including Rhino",
-      "visualization tools, including KeyShot and Enscape",
-      "presentation tools, including Figma",
-      "Adobe Creative Suite, including Photoshop"
-    ],
-    "posted": "2026-10-06T19:21:46.831Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$10.1B valuation",
-      "Series F"
-    ]
-  },
-  {
-    "dedupeKey": "job:a8730121-a5cb-4436-97af-cb092df1babc",
-    "companyId": "company_b0cf29a2a328e83c15bcabe363ed9a95",
-    "company": "Hex",
-    "companyDomain": "hex.tech",
-    "role": "Brand Designer",
-    "applyUrl": "https://go.landed.jobs/x3az1yg",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US",
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "",
-    "skills": [
-      "illustration",
-      "image-making",
-      "graphic design",
-      "animation",
-      "prototyping",
-      "typography",
-      "brand campaigns",
-      "visual identity"
-    ],
-    "posted": "2026-10-06T16:31:24.834Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:433fc7b0-75d5-45eb-9c7c-a373a50d596c",
-    "companyId": "company_ac4a6104520f100d3feddb6e51cce98e",
-    "company": "Genius Sports",
-    "companyDomain": "geniussports.com",
-    "role": "Designer",
-    "applyUrl": "https://go.landed.jobs/3k0z0hm",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "mid",
-    "skills": [
-      "art direction",
-      "design industry standard software",
-      "commercial advertising",
-      "branding",
-      "motion design",
-      "3D"
-    ],
-    "posted": "2026-10-06T15:22:16.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.9B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ae56f8ac-f436-4789-adeb-33438d68534e",
-    "companyId": "company_0fa1df6c14b8d03e56708aa1751f26de",
-    "company": "WHOOP",
-    "companyDomain": "whoop.com",
-    "role": "Staff Product Designer, Connected Experiences",
-    "applyUrl": "https://go.landed.jobs/ca00e5h",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "staff",
-    "skills": [
-      "UX and interaction design skills",
-      "systems thinking",
-      "information architecture",
-      "navigation models",
-      "reusable interaction patterns",
-      "design frameworks",
-      "mobile experiences",
-      "Prototype and test interaction models",
-      "AI tools"
-    ],
-    "posted": "2026-10-06T14:03:23.518Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$10.1B valuation",
-      "Series F"
     ]
   }
 ]
