@@ -4104,6 +4104,56 @@
     ]
   },
   {
+    "dedupeKey": "job:362bc0c4-8b65-4792-94f8-122b371f724c",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Principal Product Designer, Remitly Card",
+    "applyUrl": "https://go.landed.jobs/twkwraj",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "principal",
+    "skills": [
+      "Figma"
+    ],
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:62b894a8-b907-41b7-b8d5-6181c518c5ed",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Product Designer, Remitly Card",
+    "applyUrl": "https://go.landed.jobs/7x8y4e2",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "Figma"
+    ],
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:c834266a-ba2d-450a-903f-c48dca7a2d2f",
     "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
     "company": "Cisco",
@@ -7555,31 +7605,6 @@
     ]
   },
   {
-    "dedupeKey": "job:615405bf-bbbf-48b6-a467-1c50fd1adbef",
-    "companyId": "company_cc0722958221ea5fd543408e7a09a9cd",
-    "company": "Novig",
-    "companyDomain": "novig.com",
-    "role": "Design Engineer",
-    "applyUrl": "https://go.landed.jobs/eonz652",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Claude Code"
-    ],
-    "posted": "2026-10-27T17:47:14.888Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S22",
-      "$500M valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:03c33105-6a11-42fe-9b99-facbbdaa5bab",
     "companyId": "company_773865e244201679ecd619450a5eeb77",
     "company": "Cambio",
@@ -7830,29 +7855,5 @@
     "posted": "2026-11-25T01:43:41.000Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:3cccb8b1-863e-4e11-8668-120a27158af9",
-    "companyId": "company_6ff9f7a84062719822e140f98ce38298",
-    "company": "REGENT",
-    "companyDomain": "regentcraft.com",
-    "role": "Design Co-Op (Spring)",
-    "applyUrl": "https://go.landed.jobs/1wgrsl5",
-    "location": "North Kingstown, RI",
-    "locations": [
-      "North Kingstown, RI"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "intern",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-11-24T23:47:08.800Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
   }
 ]
